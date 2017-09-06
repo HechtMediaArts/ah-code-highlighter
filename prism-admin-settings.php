@@ -53,12 +53,7 @@ if ( ! defined( 'WPINC' ) ) {
 ?>
 		<div id="wrap">
 			<h2>AH Code Highlighter</h2>
-			
-            <div class="review">
-                <p class="evolution-read-me-text"><strong><?php esc_html_e( 'If you are satisfied with this plugin, we would greatly appreciate if you would review it.', 'evolution' ); ?></strong></p>
-                <p class="evolution-read-me-link"><a href="<?php echo esc_url( __( 'https://wordpress.org/support/plugin/ah-prism-syntax-highlighter/reviews/#new-post?filter=5', 'evolution' ) ); ?>" target="_blank"><?php esc_html_e( 'Review This Plugin now &raquo;', 'evolution' ); ?></a></p>
-            </div>
-			
+						
 			<form method="post" action="options.php">
 				<?php settings_fields( 'prism-settings-group' ); ?>
 				<?php do_settings_sections( 'prism-settings-group' ); ?>
