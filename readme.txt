@@ -9,11 +9,11 @@ Donate link: https://andreas-hecht.com/prism-syntax-highlighter/
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Dead simple to use and extrem lightweigt Code Highlighting with 7 different code highlighting themes.
+Really simple to use and extrem lightweigt Code Highlighting with 7 different code highlighting themes.
 
 == Description ==
 
-Dead simple to use and extrem lightweigt Code Highlighting with 7 different code highlighting themes. You can highlight your code with or without line numbers. It is based on Lea Verou's [Prism.js](http://prismjs.com/ "Prism.js"). Prism is used on several big websites like the Smashing Magazine, A list Apart, CSS Tricks, SitePoint and Drupal, because it is fast, simple and lightweight.
+Really simple to use and extrem lightweigt Code Highlighting with 7 different code highlighting themes. You can highlight your code with or without line numbers. It is based on Lea Verou's [Prism.js](http://prismjs.com/ "Prism.js"). Prism is used on several big websites like the Smashing Magazine, A list Apart, CSS Tricks, SitePoint and Drupal, because it is fast, simple and lightweight.
 
 AH Code Highlighter supports PHP, HTML, CSS, JavaScript, Apache, Http, Sess, Lass, Markdown, Nginx, MySql, Xml, Mathml and Clike.
 
